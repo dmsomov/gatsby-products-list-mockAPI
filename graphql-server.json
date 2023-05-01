@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "macbook-air",
+      "title": "MacBook Air",
+      "description": "MacBook Air with M1 is an incredibly portable laptop — it’s nimble and quick, with a silent, fanless design and a beautiful Retina display. Thanks to its slim profile and all‑day battery life, this Air moves at the speed of lightness.",
+      "price": "999$",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1664472289661"
+    },
+    {
+      "id": 2,
+      "name": "macbook-air",
+      "title": "MacBook Air",
+      "description": "MacBook Air with M2 is an incredibly portable laptop — it’s nimble and quick, with a silent, fanless design and a beautiful Retina display. Thanks to its slim profile and all‑day battery life, this Air moves at the speed of lightness.",
+      "price": "1199$",
+      "image": "https://app-minsk.by/files/items/4588/icon_480x390.png"
+    },
+    {
+      "id": 3,
+      "name": "macbook-pro-13",
+      "title": "MacBook Pro 13”",
+      "description": "The new M2 chip makes the 13‑inch MacBook Pro more capable than ever. The same compact design supports up to 20 hours of battery life1 and an active cooling system to sustain enhanced performance. Featuring a brilliant Retina display, a FaceTime HD camera, and studio‑quality mics, it’s our most portable pro laptop.",
+      "price": "1299$",
+      "image": "https://s.yimg.com/uu/api/res/1.2/PO5ud3TZYg2q2o8dnZCvUg--~B/Zmk9ZmlsbDtoPTU4Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-06/52e346e0-e5c4-11ec-bffb-a9c5693e8b07.cf.jpg"
+    },
+    {
+      "id": 4,
+      "name": "macbook-pro-14-16",
+      "title": "MacBook Pro 14” and 16”",
+      "description": "Supercharged by M2 Pro or M2 Max, MacBook Pro takes its power and efficiency further than ever. It delivers exceptional performance whether it’s plugged in or not, and now has even longer battery life. Combined with a stunning Liquid Retina XDR display and all the ports you need — this is a pro laptop without equal.",
+      "price": "1999$",
+      "image": "https://www.technodom.kz/under/mac-landing/macbook-pro-14-16.png"
+    }
+  ]
+}
