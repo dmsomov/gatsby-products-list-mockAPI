@@ -29,7 +29,7 @@
 
 4.  **json-graphql-server**
 
-    If you do not have "yvyayv" installed, then you need to install using the command:
+    If you do not have "json-graphql-server" installed, then you need to install using the command:
     
     ```shell
     npm install -g json-graphql-server
