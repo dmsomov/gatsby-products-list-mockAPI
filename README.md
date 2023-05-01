@@ -37,7 +37,7 @@
 
 5. **Start developing.**
 
-  Use CLI:
+    Use CLI:
   
     ```shell
     npm run dev
