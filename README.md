@@ -9,41 +9,37 @@
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+1.  **Clone repository to your computer.**
 
     ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
+    git clone https://github.com/dmsomov/gatsby-products-list-mockAPI.git
     ```
 
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
+2.  **Navigate into your new site’s directory.**
 
     ```shell
-    cd my-gatsby-site/
-    npm run develop
+    cd gatsby-products-list-mockAPI/
     ```
 
-3.  **Open the code and start customizing!**
+3.  **Install dependencies.**
 
-    Your site is now running at http://localhost:8000!
+    ```shell
+    npm install
+    ```
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+4.  **json-graphql-server**
 
-4.  **Learn more**
+    If you do not have "yvyayv" installed, then you need to install using the command:
+    
+    ```shell
+    npm install -g json-graphql-server
+    ```
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Tutorials](https://www.gatsbyjs.com/docs/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Guides](https://www.gatsbyjs.com/docs/how-to/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+5. **Start developing.**
 
-## 🚀 Quick start (Netlify)
-
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
-
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+  Use CLI:
+  
+    ```shell
+    npm run dev
+    ```
+  
