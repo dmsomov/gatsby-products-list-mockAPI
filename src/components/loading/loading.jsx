@@ -3,7 +3,9 @@ import ContentLoader from "react-content-loader";
 
 import { Wrapper } from "./loading.styles";
 
-export const Loading = () => (
+export const Loading = () => {
+  console.log('222222');
+  return (
   <Wrapper>
     <ContentLoader
       viewBox="0 0 400 160"
@@ -26,4 +28,4 @@ export const Loading = () => (
       <circle cx="238" cy="86" r="8" />
     </ContentLoader>
   </Wrapper>
-);
+)};
