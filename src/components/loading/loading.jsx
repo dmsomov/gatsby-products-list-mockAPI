@@ -4,6 +4,7 @@ import ContentLoader from "react-content-loader";
 import { Wrapper } from "./loading.styles";
 
 export const Loading = () => {
+  console.log('111111');
   return (
   <Wrapper>
     <ContentLoader
