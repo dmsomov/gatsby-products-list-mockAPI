@@ -9,6 +9,7 @@ export const Loading = () => {
   console.log("444444");
   console.log("555555");
   console.log("555555");
+  console.log("777777");
   return (
     <Wrapper>
       <ContentLoader
