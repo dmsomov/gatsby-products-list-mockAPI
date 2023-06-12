@@ -5,7 +5,8 @@ import { Wrapper } from "./loading.styles";
 
 export const Loading = () => {
   console.log("222222");
-  console.log("333333");
+  console.log("222222");
+  console.log("444444");
 
   return (
     <Wrapper>
