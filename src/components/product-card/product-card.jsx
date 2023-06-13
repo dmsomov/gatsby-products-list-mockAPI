@@ -7,7 +7,7 @@ export const ProductCard = memo(
     <Wrapper>
       <Image src={image} alt={name}/>
       <Title title={title}>{title}</Title>
-      <Price title={`Price: ${price}`}>Price: {price}</Price>
+      <Price title={`Price: ${price}`}>Price: {price}.</Price>
       <Link to={`/product/${id}`} title={`Learn more about ${title}`}>
         Learn more about {title}
       </Link>
