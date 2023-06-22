@@ -6,6 +6,7 @@ export const IframeComponent = ({close}) => {
   console.log('111111')
   console.log('333333')
   console.log('333333')
+  console.log('333333')
   return (
     <div className="wrapper">
       <button onClick={close}>close</button>
